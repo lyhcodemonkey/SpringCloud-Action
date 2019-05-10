@@ -1,0 +1,8 @@
+GET http://localhost:8001/product/get/{id}
+
+###
+
+GET http://localhost:8001/product/get/{id}
+
+###
+
